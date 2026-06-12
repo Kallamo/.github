@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kallamo/.github/main/logotype.svg" alt="Kallamo" width="200" />
+  <img src="https://raw.githubusercontent.com/Kallamo/.github/main/logotype.svg" alt="Kallamo" width="200" />
 </p>
 
 <p align="center">
