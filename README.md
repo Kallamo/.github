@@ -8,8 +8,6 @@
 
 ---
 
-## Kallamo
-
 A free, open-source desktop client for private AI orchestration. Bring your own API keys, build custom AI personas, index your documents locally, and automate multi-agent workflows — all offline, all yours.
 
 ### Projects
