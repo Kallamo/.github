@@ -22,6 +22,8 @@ We're building a community around sharing custom AI Profiles (`.klp` files), Kno
 
 - **[Discord Server](https://discord.com/invite/CE4C9JRS9H)**
 - **[Contributing & CLA](https://github.com/Kallamo/Kallamo/blob/main/CLA.md)**
+- **[Code of Conduct](https://github.com/Kallamo/.github/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security policy](https://github.com/Kallamo/.github/blob/main/SECURITY.md)**
 
 ### License
 
