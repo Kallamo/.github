@@ -21,7 +21,7 @@ A free, open-source desktop client for private AI orchestration. Bring your own 
 We're building a community around sharing custom AI Profiles (`.klp` files), Knowledge Base structures, and workflow chains. If you want to contribute, grab community-made profiles, or help shape the roadmap:
 
 - **[Discord Server](https://discord.com/invite/CE4C9JRS9H)**
-- **[Contributing & CLA](https://github.com/Kallamo/Kallamo/blob/main/CLA.md)**
+- **[Contributor License Agreement](https://github.com/Kallamo/.github/blob/main/CLA.md)**
 - **[Code of Conduct](https://github.com/Kallamo/.github/blob/main/CODE_OF_CONDUCT.md)**
 - **[Security policy](https://github.com/Kallamo/.github/blob/main/SECURITY.md)**
 
